@@ -9,5 +9,4 @@ public class Ws43RestfulWebServicesVersioningBasicApproachWithUrisApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(Ws43RestfulWebServicesVersioningBasicApproachWithUrisApplication.class, args);
 	}
-
 }
